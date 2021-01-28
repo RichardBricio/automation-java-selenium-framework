@@ -1,0 +1,16 @@
+{
+  "buildNumbers" : [ "0.0.18-SNAPSHOT", "0.0.18-SNAPSHOT" ],
+  "passedFeatures" : [ 0, 1 ],
+  "failedFeatures" : [ 0, 0 ],
+  "totalFeatures" : [ 0, 1 ],
+  "passedScenarios" : [ 0, 1 ],
+  "failedScenarios" : [ 0, 0 ],
+  "totalScenarios" : [ 0, 1 ],
+  "passedSteps" : [ 0, 4 ],
+  "failedSteps" : [ 0, 0 ],
+  "skippedSteps" : [ 0, 0 ],
+  "pendingSteps" : [ 0, 0 ],
+  "undefinedSteps" : [ 0, 0 ],
+  "totalSteps" : [ 0, 4 ],
+  "durations" : [ 0, 28747000000 ]
+}
