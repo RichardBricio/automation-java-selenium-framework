@@ -1,0 +1,129 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2021-01-28T15:48:33.292Z",
+        "before": [
+          {
+            "result": {
+              "duration": 14000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.serasa.hooks.Hooks.runBeforeWithOrder(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "Pré Requisito - Acessar produto SerasaJud",
+        "description": "",
+        "id": "contabilização-de-ordens-cadastradas;pré-requisito---acessar-produto-serasajud",
+        "after": [
+          {
+            "result": {
+              "duration": 2000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.serasa.hooks.Hooks.ScreenshotOnFailure(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 6636000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Que eu esteja usando o browser CHROME",
+            "match": {
+              "arguments": [
+                {
+                  "val": "CHROME",
+                  "offset": 31
+                }
+              ],
+              "location": "com.serasa.steps.common.CommonSteps.selectDriver(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2823000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Que eu acesso a pagina de login no ambiente de EXT",
+            "match": {
+              "arguments": [
+                {
+                  "val": "EXT",
+                  "offset": 47
+                }
+              ],
+              "location": "com.serasa.steps.common.LoginSteps.Eu_acesso_o_SerasaJud(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 14168000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Eu seleciono o primeiro CERTIFICADO_DIGITAL e insiro a senha \"serasa@1\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "serasa@1",
+                  "offset": 62
+                }
+              ],
+              "location": "com.serasa.steps.common.LoginSteps.Eu_seleciono_o_primeiro_certificado_digital_e_insiro_senha(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5120000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Eu acesso o menu ORDENS",
+            "match": {
+              "location": "com.serasa.steps.OrdensCadastradasSteps.Eu_o_menu_ordens()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Contabilizacao"
+          },
+          {
+            "name": "@test"
+          }
+        ]
+      }
+    ],
+    "name": "Contabilização de Ordens Cadastradas",
+    "description": "",
+    "id": "contabilização-de-ordens-cadastradas",
+    "keyword": "Feature",
+    "uri": "file:src/main/resources/com/serasa/features/ContabilizacaoOrdens.feature",
+    "tags": [
+      {
+        "name": "@Contabilizacao",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
