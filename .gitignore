@@ -1,0 +1,17 @@
+#Reports and Screenshots
+
+cucumber-html-reports/
+/target/
+/test-output/
+/output/*
+/Driver/
+*.log
+*.png
+*.jpg
+*.project
+.project/
+*.classpath
+*.iml
+/.settings
+.idea/
+/bin/

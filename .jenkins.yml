@@ -1,0 +1,17 @@
+version: 5.0.0
+global:
+  application: experian-srv-concentre-test
+  type: test
+  language: java
+  package: jar
+  tribe: CS-BI
+develop:
+  before_build:
+    sonarqube:
+  build:
+     mvn: clean package deploy -Dlabel=-SNAPSHOT -Dmaven.test.skip=true
+  notifications:
+    pullrequest:
+master:
+  build:
+    mvn: clean package deploy -Dlabel= -Dmaven.test.skip=true

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ATENCAO: Caso deseje logar no console durante o desenvolvimento local use a propriedade de JVM -Dlogback.configurationFile
+apontando para outro arquivo de configuracao:
+http://logback.qos.ch/manual/configuration.html#configFileProperty
+-->
+<configuration>
+   <property name="app_name" value="experian-srv-concentre-test" />
+ 
+   <property name="log_path" value="/home/produtos/prod/log/AutomacaoQS_concentre.log" />
+ 
+   <appender name="FILE"
+      class="ch.qos.logback.core.rolling.RollingFileAppender">
+      <file>${log_path}</file>
+ 
+      <encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+         <pattern>[%d{yyyy-MM-dd'T'HH:mm:ss.SSS}|%-5level|%logger|%thread|%X{id}|%msg#]%n</pattern>
+      </encoder>
+ 
+      <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+         <FileNamePattern>${log_path}.%d.gz</FileNamePattern>
+         <maxHistory>30</maxHistory>
+      </rollingPolicy>
+ 
+   </appender>
+ 
+   <root level="WARN">
+      <appender-ref ref="FILE" />
+   </root>
+ 
+   <logger name="br.com.experian.commons" level="WARN" />
+   <logger name="br.com.experian.srv.sc96.string.repository" level="WARN" />
+   <logger name="br.com.experian.srv.sc96.string" level="WARN" />
+   <logger name="br.com.experian.srv.sc96" level="WARN" />
+   <logger name="br.com.experian.srv" level="WARN" />
+   <logger name="br.com.experian" level="WARN" />
+ 
+</configuration>
