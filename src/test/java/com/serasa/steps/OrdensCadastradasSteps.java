@@ -33,6 +33,7 @@ public class OrdensCadastradasSteps {
 
 	@When("^Eu acesso o menu ORDENS$")
 	public void Eu_o_menu_ordens() throws Exception {
+		Thread.sleep(3000);
 		DriverUtils.esperarElementoComPolling(home.getBtnOrdem());
 		try {
 			home.getBtnOrdem().click();

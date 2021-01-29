@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: com.serasa.common.utils.RunnerClass.Runner
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 1, Errors: 0, Skipped: 1, Time elapsed: 3.438 s <<< FAILURE! - in com.serasa.common.utils.RunnerClass.Runner
-null on com.serasa.common.utils.RunnerClass.Runner(com.serasa.common.utils.RunnerClass.Runner)  Time elapsed: 2.531 s  <<< FAILURE!
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 1, Time elapsed: 1.912 s <<< FAILURE! - in com.serasa.common.utils.RunnerClass.Runner
+null on com.serasa.common.utils.RunnerClass.Runner(com.serasa.common.utils.RunnerClass.Runner)  Time elapsed: 1.393 s  <<< FAILURE!
 java.lang.NullPointerException
 	at com.serasa.common.utils.RunnerClass.Runner.tearDown(Runner.java:26)
 
