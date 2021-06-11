@@ -28,11 +28,11 @@ http://logback.qos.ch/manual/configuration.html#configFileProperty
       <appender-ref ref="FILE" />
    </root>
  
-   <logger name="br.com.experian.commons" level="WARN" />
-   <logger name="br.com.experian.srv.sc96.string.repository" level="WARN" />
-   <logger name="br.com.experian.srv.sc96.string" level="WARN" />
-   <logger name="br.com.experian.srv.sc96" level="WARN" />
-   <logger name="br.com.experian.srv" level="WARN" />
-   <logger name="br.com.experian" level="WARN" />
+<!--   <logger name="br.com.experian.commons" level="WARN" />-->
+<!--   <logger name="br.com.experian.srv.sc96.string.repository" level="WARN" />-->
+<!--   <logger name="br.com.experian.srv.sc96.string" level="WARN" />-->
+<!--   <logger name="br.com.experian.srv.sc96" level="WARN" />-->
+<!--   <logger name="br.com.experian.srv" level="WARN" />-->
+<!--   <logger name="br.com.experian" level="WARN" />-->
  
 </configuration>

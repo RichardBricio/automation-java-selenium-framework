@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="0" failures="0" name="TestSuite" time="0.285" errors="0" skipped="0">
+  <properties>
+    <property name="java.vendor" value="Azul Systems, Inc."/>
+    <property name="env.SYSTEMROOT" value="C:\Windows"/>
+    <property name="env.IDEA_INITIAL_DIRECTORY" value="C:\Jetbrains\IntelliJ\bin"/>
+    <property name="localRepository" value="C:\Users\richa\.m2\repository"/>
+    <property name="env.USERDOMAIN_ROAMINGPROFILE" value="DESKTOP-E0R0ERN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="env.ONEDRIVE" value="C:\Users\richa\OneDrive"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="env.COMPUTERNAME" value="DESKTOP-E0R0ERN"/>
+    <property name="env.ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.runtime.version" value="16.0.1+9"/>
+    <property name="env.HOMEPATH" value="\Users\richa"/>
+    <property name="user.name" value="BriCiO"/>
+    <property name="maven.build.version" value="Apache Maven 3.6.1 (d66c9c0b3152b2e69ee9bac180bb8fcc8e6af555; 2019-04-04T16:00:29-03:00)"/>
+    <property name="env.DRIVERDATA" value="C:\Windows\System32\Drivers\DriverData"/>
+    <property name="env.ONEDRIVECONSUMER" value="C:\Users\richa\OneDrive"/>
+    <property name="env.PATH" value="C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Java\jdk1.8.0_251\bin;C:\Apache\apache-maven-3.6.1\bin;C:\Program Files\Git\cmd;C:\Program Files\SafeNet\Authentication\SAC\x64;C:\Program Files\SafeNet\Authentication\SAC\x32;C:\Apache\apache-maven-3.6.1\bin;C:\Users\richa\AppData\Local\Microsoft\WindowsApps;"/>
+    <property name="user.language" value="pt"/>
+    <property name="idea.version" value="2021.1.2"/>
+    <property name="env.WINDIR" value="C:\Windows"/>
+    <property name="sun.boot.library.path" value="C:\Users\richa\.jdks\azul-16.0.1\bin"/>
+    <property name="classworlds.conf" value="C:\Apache\apache-maven-3.6.1\bin\m2.conf"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.version" value="16.0.1"/>
+    <property name="env.PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 94 Stepping 3, GenuineIntel"/>
+    <property name="user.timezone" value="America/Sao_Paulo"/>
+    <property name="env.TEMP" value="C:\Users\richa\AppData\Local\Temp"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="env.HOMEDRIVE" value="C:"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="env.SYSTEMDRIVE" value="C:"/>
+    <property name="maven.conf" value="C:\Apache\apache-maven-3.6.1/conf"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="60.0"/>
+    <property name="user.country" value="BR"/>
+    <property name="java.home" value="C:\Users\richa\.jdks\azul-16.0.1"/>
+    <property name="env.APPDATA" value="C:\Users\richa\AppData\Roaming"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="env.PUBLIC" value="C:\Users\Public"/>
+    <property name="env.OS" value="Windows_NT"/>
+    <property name="os.version" value="10.0"/>
+    <property name="env.=::" value="::\"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.version" value="16.0.1+9"/>
+    <property name="env.USERPROFILE" value="C:\Users\richa"/>
+    <property name="user.variant" value=""/>
+    <property name="maven.ext.class.path" value="C:\Jetbrains\IntelliJ\plugins\maven\lib\maven-event-listener.jar"/>
+    <property name="env.JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_251"/>
+    <property name="env.FPS_BROWSER_USER_PROFILE_STRING" value="Default"/>
+    <property name="env.TMP" value="C:\Users\richa\AppData\Local\Temp"/>
+    <property name="env.PROGRAMFILES" value="C:\Program Files"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="user.script" value=""/>
+    <property name="user.home" value="C:\Users\richa"/>
+    <property name="env.COMMONPROGRAMFILES" value="C:\Program Files\Common Files"/>
+    <property name="env.SESSIONNAME" value="Console"/>
+    <property name="java.version.date" value="2021-04-20"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="env.M2_HOME" value="C:\Apache\apache-maven-3.6.1"/>
+    <property name="env.NUMBER_OF_PROCESSORS" value="8"/>
+    <property name="java.library.path" value="C:\Users\richa\.jdks\azul-16.0.1\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Java\jdk1.8.0_251\bin;C:\Apache\apache-maven-3.6.1\bin;C:\Program Files\Git\cmd;C:\Program Files\SafeNet\Authentication\SAC\x64;C:\Program Files\SafeNet\Authentication\SAC\x32;C:\Apache\apache-maven-3.6.1\bin;C:\Users\richa\AppData\Local\Microsoft\WindowsApps;;."/>
+    <property name="java.vendor.url" value="http://www.azulsystems.com/"/>
+    <property name="env.COMMONPROGRAMFILES(X86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="env.PSMODULEPATH" value="C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules"/>
+    <property name="java.vm.vendor" value="Azul Systems, Inc."/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="maven.home" value="C:\Apache\apache-maven-3.6.1"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2021.1.2 install"/>
+    <property name="java.class.path" value="C:\Apache\apache-maven-3.6.1\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="env.PROGRAMW6432" value="C:\Program Files"/>
+    <property name="maven.version" value="3.6.1"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="env.PROGRAMFILES(X86)" value="C:\Program Files (x86)"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="env.LOGONSERVER" value="\\DESKTOP-E0R0ERN"/>
+    <property name="java.vm.specification.version" value="16"/>
+    <property name="env.PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="env.COMMONPROGRAMW6432" value="C:\Program Files\Common Files"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="surefire.test.class.path" value="C:\git\automation-java-selenium\target\test-classes;C:\git\automation-java-selenium\target\classes;C:\Users\richa\.m2\repository\org\apache\logging\log4j\log4j-core\2.13.2\log4j-core-2.13.2.jar;C:\Users\richa\.m2\repository\org\apache\logging\log4j\log4j-api\2.13.2\log4j-api-2.13.2.jar;C:\Users\richa\.m2\repository\org\apache\logging\log4j\log4j-slf4j-impl\2.13.2\log4j-slf4j-impl-2.13.2.jar;C:\Users\richa\.m2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;C:\Users\richa\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\richa\.m2\repository\org\apache\httpcomponents\httpclient\4.5.2\httpclient-4.5.2.jar;C:\Users\richa\.m2\repository\org\apache\httpcomponents\httpcore\4.4.4\httpcore-4.4.4.jar;C:\Users\richa\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\richa\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar;C:\Users\richa\.m2\repository\junit\junit\4.13\junit-4.13.jar;C:\Users\richa\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\richa\.m2\repository\com\github\javafaker\javafaker\0.14\javafaker-0.14.jar;C:\Users\richa\.m2\repository\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\richa\.m2\repository\org\yaml\snakeyaml\1.19\snakeyaml-1.19-android.jar;C:\Users\richa\.m2\repository\com\github\mifmif\generex\1.0.2\generex-1.0.2.jar;C:\Users\richa\.m2\repository\dk\brics\automaton\automaton\1.11-8\automaton-1.11-8.jar;C:\Users\richa\.m2\repository\br\com\caelum\stella\caelum-stella-core\2.1.2\caelum-stella-core-2.1.2.jar;C:\Users\richa\.m2\repository\net\java\dev\jna\jna\5.1.0\jna-5.1.0.jar;C:\Users\richa\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\richa\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\richa\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\richa\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\richa\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\richa\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\richa\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\richa\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\richa\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\richa\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\richa\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\richa\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\richa\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\richa\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\richa\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\richa\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\richa\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\richa\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\richa\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\richa\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\richa\.m2\repository\io\cucumber\cucumber-junit\6.2.0\cucumber-junit-6.2.0.jar;C:\Users\richa\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\richa\.m2\repository\io\cucumber\cucumber-core\6.2.0\cucumber-core-6.2.0.jar;C:\Users\richa\.m2\repository\io\cucumber\cucumber-gherkin\6.2.0\cucumber-gherkin-6.2.0.jar;C:\Users\richa\.m2\repository\io\cucumber\cucumber-gherkin-messages\6.2.0\cucumber-gherkin-messages-6.2.0.jar;C:\Users\richa\.m2\repository\io\cucumber\messages\12.2.0\messages-12.2.0.jar;C:\Users\richa\.m2\repository\io\cucumber\tag-expressions\3.0.0\tag-expressions-3.0.0.jar;C:\Users\richa\.m2\repository\io\cucumber\cucumber-expressions\10.2.1\cucumber-expressions-10.2.1.jar;C:\Users\richa\.m2\repository\io\cucumber\datatable\3.3.1\datatable-3.3.1.jar;C:\Users\richa\.m2\repository\io\cucumber\cucumber-plugin\6.2.0\cucumber-plugin-6.2.0.jar;C:\Users\richa\.m2\repository\io\cucumber\docstring\6.2.0\docstring-6.2.0.jar;C:\Users\richa\.m2\repository\io\cucumber\html-formatter\7.0.0\html-formatter-7.0.0.jar;C:\Users\richa\.m2\repository\io\cucumber\cucumber-java\6.2.0\cucumber-java-6.2.0.jar;C:\Users\richa\.m2\repository\io\cucumber\cucumber-picocontainer\6.2.0\cucumber-picocontainer-6.2.0.jar;C:\Users\richa\.m2\repository\org\picocontainer\picocontainer\2.15\picocontainer-2.15.jar;C:\Users\richa\.m2\repository\io\cucumber\cucumber-testng\6.2.0\cucumber-testng-6.2.0.jar;C:\Users\richa\.m2\repository\org\testng\testng\7.1.0\testng-7.1.0.jar;C:\Users\richa\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\richa\.m2\repository\com\google\inject\guice\4.1.0\guice-4.1.0-no_aop.jar;C:\Users\richa\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar;C:\Users\richa\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;C:\Users\richa\.m2\repository\org\yaml\snakeyaml\1.21\snakeyaml-1.21.jar;C:\Users\richa\.m2\repository\org\hamcrest\hamcrest-all\1.3\hamcrest-all-1.3.jar;C:\Users\richa\.m2\repository\com\vimalselvam\cucumber-extentsreport\3.1.1\cucumber-extentsreport-3.1.1.jar;C:\Users\richa\.m2\repository\com\aventstack\extentreports-cucumber4-adapter\1.0.12\extentreports-cucumber4-adapter-1.0.12.jar;C:\Users\richa\.m2\repository\com\aventstack\extentreports\4.1.5\extentreports-4.1.5.jar;C:\Users\richa\.m2\repository\org\apache\httpcomponents\httpmime\4.5.2\httpmime-4.5.2.jar;C:\Users\richa\.m2\repository\org\mongodb\bson\3.12.0\bson-3.12.0.jar;C:\Users\richa\.m2\repository\org\mongodb\mongodb-driver\3.3.0\mongodb-driver-3.3.0.jar;C:\Users\richa\.m2\repository\org\mongodb\mongodb-driver-core\3.3.0\mongodb-driver-core-3.3.0.jar;C:\Users\richa\.m2\repository\org\freemarker\freemarker\2.3.30\freemarker-2.3.30.jar;C:\Users\richa\.m2\repository\net\masterthought\cucumber-reporting\5.3.0\cucumber-reporting-5.3.0.jar;C:\Users\richa\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.10.1\jackson-databind-2.10.1.jar;C:\Users\richa\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.10.1\jackson-annotations-2.10.1.jar;C:\Users\richa\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.10.1\jackson-core-2.10.1.jar;C:\Users\richa\.m2\repository\com\fasterxml\jackson\datatype\jackson-datatype-jsr310\2.10.1\jackson-datatype-jsr310-2.10.1.jar;C:\Users\richa\.m2\repository\org\apache\velocity\velocity-engine-core\2.1\velocity-engine-core-2.1.jar;C:\Users\richa\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\richa\.m2\repository\joda-time\joda-time\2.10.5\joda-time-2.10.5.jar;C:\Users\richa\.m2\repository\org\codehaus\plexus\plexus-utils\3.3.0\plexus-utils-3.3.0.jar;C:\Users\richa\.m2\repository\org\jsoup\jsoup\1.12.1\jsoup-1.12.1.jar;C:\Users\richa\.m2\repository\com\googlecode\owasp-java-html-sanitizer\owasp-java-html-sanitizer\20191001.1\owasp-java-html-sanitizer-20191001.1.jar;C:\Users\richa\.m2\repository\commons-configuration\commons-configuration\1.10\commons-configuration-1.10.jar;C:\Users\richa\.m2\repository\commons-io\commons-io\2.7\commons-io-2.7.jar;C:\Users\richa\.m2\repository\ru\yandex\qatools\ashot\ashot\1.5.4\ashot-1.5.4.jar;C:\Users\richa\.m2\repository\com\google\code\gson\gson\2.6.2\gson-2.6.2.jar;"/>
+    <property name="env.PROCESSOR_REVISION" value="5e03"/>
+    <property name="java.io.tmpdir" value="C:\Users\richa\AppData\Local\Temp\"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\git\automation-java-selenium"/>
+    <property name="java.vendor.url.bug" value="http://www.azulsystems.com/support/"/>
+    <property name="env.COMSPEC" value="C:\Windows\system32\cmd.exe"/>
+    <property name="env.PROGRAMDATA" value="C:\ProgramData"/>
+    <property name="env.FPS_BROWSER_APP_PROFILE_STRING" value="Internet Explorer"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="user.dir" value="C:\git\automation-java-selenium"/>
+    <property name="env.MAVEN_HOME" value="C:\Apache\apache-maven-3.6.1"/>
+    <property name="env.LOCALAPPDATA" value="C:\Users\richa\AppData\Local"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="basedir" value="C:\git\automation-java-selenium"/>
+    <property name="env.USERNAME" value="BriCiO"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="env.USERDOMAIN" value="DESKTOP-E0R0ERN"/>
+    <property name="java.specification.version" value="16"/>
+    <property name="java.vendor.version" value="Zulu16.30+15-CA"/>
+    <property name="env.PROCESSOR_LEVEL" value="6"/>
+  </properties>
+</testsuite>

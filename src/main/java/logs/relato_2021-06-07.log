@@ -1,0 +1,100 @@
+[INFO ] 2021-01-28 12:07:23.065 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES - SERASAJUD ----------
+[INFO ] 2021-01-28 12:07:31.285 [main] CommonSteps - Selecionado o driver: CHROME
+[INFO ] 2021-01-28 12:07:34.888 [main] LoginSteps - Ambiente selecionado: HOMOLOGAÇÃO EXTERNA
+[INFO ] 2021-01-28 12:11:29.477 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES - SERASAJUD ----------
+[INFO ] 2021-01-28 12:11:36.183 [main] CommonSteps - Selecionado o driver: CHROME
+[INFO ] 2021-01-28 12:11:39.128 [main] LoginSteps - Ambiente selecionado: HOMOLOGAÇÃO EXTERNA
+[INFO ] 2021-01-28 12:20:01.947 [main] Runner - ----- EXECU��O DE TESTES INICIADA ATRAV�S DA ESTEIRA DEVOPS - RUNNER - JUNIT -----
+[INFO ] 2021-01-28 12:20:40.669 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES - SERASAJUD ----------
+[INFO ] 2021-01-28 12:20:47.069 [main] CommonSteps - Selecionado o driver: CHROME
+[INFO ] 2021-01-28 12:20:51.656 [main] LoginSteps - Ambiente selecionado: HOMOLOGAÇÃO EXTERNA
+[INFO ] 2021-01-28 12:21:59.192 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES - SERASAJUD ----------
+[INFO ] 2021-01-28 12:22:07.534 [main] CommonSteps - Selecionado o driver: CHROME
+[INFO ] 2021-01-28 12:22:51.528 [main] LoginSteps - Ambiente selecionado: HOMOLOGAÇÃO EXTERNA
+[INFO ] 2021-01-28 12:23:38.937 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES - SERASAJUD ----------
+[INFO ] 2021-01-28 12:23:45.295 [main] CommonSteps - Selecionado o driver: CHROME
+[INFO ] 2021-01-28 12:23:48.448 [main] LoginSteps - Ambiente selecionado: HOMOLOGAÇÃO EXTERNA
+[INFO ] 2021-01-28 12:26:10.824 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES - SERASAJUD ----------
+[INFO ] 2021-01-28 12:26:18.014 [main] CommonSteps - Selecionado o driver: CHROME
+[INFO ] 2021-01-28 12:26:24.227 [main] LoginSteps - Ambiente selecionado: HOMOLOGAÇÃO EXTERNA
+[INFO ] 2021-01-28 12:48:31.969 [main] LocalRun - ----- EXECUÇÃO DE TESTES INICIADA MANUALMENTE ATRAVÉS DO LOCALRUN - JUNIT -----
+[INFO ] 2021-01-28 12:48:33.544 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES - SERASAJUD ----------
+[INFO ] 2021-01-28 12:48:40.179 [main] CommonSteps - Selecionado o driver: CHROME
+[INFO ] 2021-01-28 12:48:43.003 [main] LoginSteps - Ambiente selecionado: HOMOLOGAÇÃO EXTERNA
+[INFO ] 2021-01-28 12:49:36.229 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES - SERASAJUD ----------
+[INFO ] 2021-01-28 12:49:42.729 [main] CommonSteps - Selecionado o driver: CHROME
+[INFO ] 2021-01-28 12:49:45.241 [main] LoginSteps - Ambiente selecionado: HOMOLOGAÇÃO EXTERNA
+[INFO ] 2021-01-28 21:15:46.301 [main] Runner - ----- EXECU��O DE TESTES INICIADA ATRAV�S DA ESTEIRA DEVOPS - RUNNER - JUNIT -----
+[INFO ] 2021-01-28 21:18:44.915 [main] Runner - ----- EXECU��O DE TESTES INICIADA ATRAV�S DA ESTEIRA DEVOPS - RUNNER - JUNIT -----
+[INFO ] 2021-01-28 21:21:18.114 [main] Runner - ----- EXECU��O DE TESTES INICIADA ATRAV�S DA ESTEIRA DEVOPS - RUNNER - JUNIT -----
+[INFO ] 2021-01-28 21:24:51.749 [main] Runner - ----- EXECU��O DE TESTES INICIADA ATRAV�S DA ESTEIRA DEVOPS - RUNNER - JUNIT -----
+[INFO ] 2021-01-28 21:25:41.884 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES - SERASAJUD ----------
+[INFO ] 2021-01-28 21:25:46.548 [main] CommonSteps - Selecionado o driver: CHROME
+[INFO ] 2021-01-28 21:26:00.432 [main] LoginSteps - Ambiente selecionado: HOMOLOGAÇÃO EXTERNA
+[INFO ] 2021-06-07 14:25:08.783 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES ----------
+[INFO ] 2021-06-07 14:25:11.541 [main] CommonSteps - Selecionado o driver: CHROME
+[INFO ] 2021-06-07 14:25:13.412 [main] LoginSteps - Ambiente selecionado: HOMOLOGAÇÃO INTERNA
+[INFO ] 2021-06-07 14:25:59.144 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES ----------
+[INFO ] 2021-06-07 14:26:01.249 [main] CommonSteps - Selecionado o driver: CHROME
+[INFO ] 2021-06-07 14:26:02.869 [main] LoginSteps - Ambiente selecionado: HOMOLOGAÇÃO INTERNA
+[INFO ] 2021-06-07 14:26:23.671 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES ----------
+[INFO ] 2021-06-07 14:26:25.619 [main] CommonSteps - Selecionado o driver: CHROME
+[INFO ] 2021-06-07 14:26:30.410 [main] LoginSteps - Ambiente selecionado: HOMOLOGAÇÃO INTERNA
+[INFO ] 2021-06-07 14:27:21.946 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES ----------
+[INFO ] 2021-06-07 14:27:24.165 [main] CommonSteps - Selecionado o driver: CHROME
+[INFO ] 2021-06-07 14:27:25.614 [main] LoginSteps - Ambiente selecionado: HOMOLOGAÇÃO INTERNA
+[INFO ] 2021-06-07 14:39:14.429 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES ----------
+[INFO ] 2021-06-07 14:42:43.338 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES ----------
+[INFO ] 2021-06-07 14:43:37.616 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES ----------
+[INFO ] 2021-06-07 14:44:12.903 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES ----------
+[INFO ] 2021-06-07 14:54:24.215 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES ----------
+[INFO ] 2021-06-07 14:54:26.411 [main] CommonSteps - Selecionado o driver: CHROME
+[INFO ] 2021-06-07 14:54:28.207 [main] LoginSteps - Ambiente selecionado: HOMOLOGAÇÃO INTERNA
+[INFO ] 2021-06-07 14:55:03.467 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES ----------
+[INFO ] 2021-06-07 14:57:43.229 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES ----------
+[INFO ] 2021-06-07 14:57:45.476 [main] CommonSteps - Selecionado o driver: CHROME
+[INFO ] 2021-06-07 14:57:47.293 [main] LoginSteps - Ambiente selecionado: HOMOLOGAÇÃO INTERNA
+[INFO ] 2021-06-07 14:58:01.257 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES ----------
+[INFO ] 2021-06-07 15:00:39.255 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES ----------
+[INFO ] 2021-06-07 15:00:53.450 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES ----------
+[INFO ] 2021-06-07 15:01:10.445 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES ----------
+[INFO ] 2021-06-07 15:01:12.586 [main] CommonSteps - Selecionado o driver: CHROME
+[INFO ] 2021-06-07 15:01:14.168 [main] LoginSteps - Ambiente selecionado: HOMOLOGAÇÃO INTERNA
+[INFO ] 2021-06-07 15:01:29.062 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES ----------
+[INFO ] 2021-06-07 15:03:45.156 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES ----------
+[INFO ] 2021-06-07 15:03:47.286 [main] CommonSteps - Selecionado o driver: CHROME
+[INFO ] 2021-06-07 15:03:49.767 [main] LoginSteps - Ambiente selecionado: HOMOLOGAÇÃO INTERNA
+[INFO ] 2021-06-07 15:04:12.724 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES ----------
+[INFO ] 2021-06-07 15:04:14.823 [main] CommonSteps - Selecionado o driver: CHROME
+[INFO ] 2021-06-07 15:04:16.495 [main] LoginSteps - Ambiente selecionado: HOMOLOGAÇÃO INTERNA
+[INFO ] 2021-06-07 15:04:29.904 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES ----------
+[INFO ] 2021-06-07 15:04:57.993 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES ----------
+[INFO ] 2021-06-07 15:05:11.622 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES ----------
+[INFO ] 2021-06-07 15:05:43.933 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES ----------
+[INFO ] 2021-06-07 15:05:56.785 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES ----------
+[INFO ] 2021-06-07 15:06:11.321 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES ----------
+[INFO ] 2021-06-07 15:09:54.916 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES ----------
+[INFO ] 2021-06-07 15:09:57.133 [main] CommonSteps - Selecionado o driver: CHROME
+[INFO ] 2021-06-07 15:10:00.585 [main] LoginSteps - Ambiente selecionado: HOMOLOGAÇÃO INTERNA
+[INFO ] 2021-06-07 15:10:11.077 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES ----------
+[INFO ] 2021-06-07 15:10:13.208 [main] CommonSteps - Selecionado o driver: CHROME
+[INFO ] 2021-06-07 15:10:14.808 [main] LoginSteps - Ambiente selecionado: HOMOLOGAÇÃO INTERNA
+[INFO ] 2021-06-07 15:10:48.713 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES ----------
+[INFO ] 2021-06-07 15:10:50.821 [main] CommonSteps - Selecionado o driver: CHROME
+[INFO ] 2021-06-07 15:10:52.447 [main] LoginSteps - Ambiente selecionado: HOMOLOGAÇÃO INTERNA
+[INFO ] 2021-06-07 15:19:47.559 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES ----------
+[INFO ] 2021-06-07 15:19:49.616 [main] CommonSteps - Selecionado o driver: CHROME
+[INFO ] 2021-06-07 15:19:50.779 [main] LoginSteps - Ambiente selecionado: HOMOLOGAÇÃO INTERNA
+[INFO ] 2021-06-07 15:20:10.096 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES ----------
+[INFO ] 2021-06-07 15:20:12.269 [main] CommonSteps - Selecionado o driver: CHROME
+[INFO ] 2021-06-07 15:20:13.981 [main] LoginSteps - Ambiente selecionado: HOMOLOGAÇÃO INTERNA
+[INFO ] 2021-06-07 15:21:00.906 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES ----------
+[INFO ] 2021-06-07 15:21:03.146 [main] CommonSteps - Selecionado o driver: CHROME
+[INFO ] 2021-06-07 15:21:04.784 [main] LoginSteps - Ambiente selecionado: HOMOLOGAÇÃO INTERNA
+[INFO ] 2021-06-07 15:21:40.049 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES ----------
+[INFO ] 2021-06-07 15:21:42.192 [main] CommonSteps - Selecionado o driver: CHROME
+[INFO ] 2021-06-07 15:21:45.307 [main] LoginSteps - Ambiente selecionado: HOMOLOGAÇÃO INTERNA
+[INFO ] 2021-06-07 15:22:39.623 [main] CommonSteps - ------ INICIANDO BATERIA DE TESTES ----------
+[INFO ] 2021-06-07 15:22:41.695 [main] CommonSteps - Selecionado o driver: CHROME
+[INFO ] 2021-06-07 15:22:44.908 [main] LoginSteps - Ambiente selecionado: HOMOLOGAÇÃO INTERNA
+[INFO ] 2021-06-07 18:38:29.603 [main] Runner - ----- EXECU��O DE TESTES INICIADA ATRAV�S DA ESTEIRA DEVOPS - RUNNER - JUNIT -----

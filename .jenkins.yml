@@ -9,7 +9,7 @@ develop:
   before_build:
     sonarqube:
   build:
-     mvn: clean package deploy -Dlabel=-SNAPSHOT -Dmaven.test.skip=true
+    mvn: clean package deploy -Dlabel=-SNAPSHOT -Dmaven.test.skip=true
   notifications:
     pullrequest:
 master:

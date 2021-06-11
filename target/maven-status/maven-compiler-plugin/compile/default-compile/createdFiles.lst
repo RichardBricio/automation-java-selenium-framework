@@ -1,2 +1,2 @@
-com\serasa\properties\GetMosaicText.class
-com\serasa\properties\GetResourceBundle.class
+properties\GetResourceBundle.class
+properties\GetMosaicText.class

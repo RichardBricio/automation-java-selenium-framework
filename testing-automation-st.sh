@@ -1,12 +1,12 @@
 #!/bin/bash
 
-nameProject='experian-srv-concentre'
+nameProject='automation-java-selenium-framework'
 version=$(xmllint --xpath '/*[local-name()="project"]/*[local-name()="version"]/text()' pom.xml |sed -e 's/-SNAPSHOT//g')
 
 echo ">>>>> Isso aí!!! Vamos clonar e buildar o projeto de testes Brow \o/"
 echo ">>>>> Jutsu Clone das Sombras o+ "
-git clone ssh://git@bitbucketglobal.experian.local/tbq/${nameProject}-test.git
-cd ${nameProject}-test
+git clone ssh://git@bitbucketglobal.experian.local/tbq/${nameProject}.git
+cd ${nameProject}
 git checkout develop
 git pull origin develop
 
@@ -25,13 +25,13 @@ echo ">>>>> Gerando report da versao ${version} "
 
 reportDir="cucumber-html-reports/Run/cucumber-html-reports/"
 jsonDir="cucumber-html-reports/Run"
-resultsDir="/opt/infratransac/qs-reports/cucumber/${typeProject}/${nameProject}-test"
+resultsDir="/opt/infratransac/qs-reports/cucumber/${typeProject}/${nameProject}"
 if ! [[ -d "${resultsDir}" ]]; then
     mkdir -p "${resultsDir}"
 fi
 reportDate=$(date "+%d-%b-%H:%M:%S")
 finalDir="${resultsDir}/${version}-${reportDate}"
-finalPage="http://spobrjenkins:9094/qs-reports/cucumber/${typeProject}/${nameProject}-test/${version}-${reportDate}/index.html"
+finalPage="http://spobrjenkins:9094/qs-reports/cucumber/${typeProject}/${nameProject}/${version}-${reportDate}/index.html"
 
 
 cp $reportDir/overview-features.html $reportDir/index.html
