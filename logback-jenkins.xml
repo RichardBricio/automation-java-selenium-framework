@@ -5,9 +5,9 @@ apontando para outro arquivo de configuracao:
 http://logback.qos.ch/manual/configuration.html#configFileProperty
 -->
 <configuration>
-   <property name="app_name" value="experian-srv-concentre-test" />
+   <property name="app_name" value="company-srv-test" />
  
-   <property name="log_path" value="/home/produtos/prod/log/AutomacaoQS_concentre.log" />
+   <property name="log_path" value="/home/produtos/prod/log/AutomacaoQS.log" />
  
    <appender name="FILE"
       class="ch.qos.logback.core.rolling.RollingFileAppender">
@@ -27,12 +27,5 @@ http://logback.qos.ch/manual/configuration.html#configFileProperty
    <root level="WARN">
       <appender-ref ref="FILE" />
    </root>
- 
-<!--   <logger name="br.com.experian.commons" level="WARN" />-->
-<!--   <logger name="br.com.experian.srv.sc96.string.repository" level="WARN" />-->
-<!--   <logger name="br.com.experian.srv.sc96.string" level="WARN" />-->
-<!--   <logger name="br.com.experian.srv.sc96" level="WARN" />-->
-<!--   <logger name="br.com.experian.srv" level="WARN" />-->
-<!--   <logger name="br.com.experian" level="WARN" />-->
- 
+
 </configuration>

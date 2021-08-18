@@ -1,6 +1,6 @@
 version: 5.0.0
 global:
-  application: experian-srv-concentre-test
+  application: company-srv-test
   type: test
   language: java
   package: jar

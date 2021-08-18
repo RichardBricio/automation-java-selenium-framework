@@ -6,7 +6,7 @@
  
     <Appenders>
         
-        <RollingFile name="fileLogger" fileName="${basePath}/concentre.log" filePattern="${basePath}/relato_%d{yyyy-MM-dd}.log">
+        <RollingFile name="fileLogger" fileName="${basePath}/resume.log" filePattern="${basePath}/resume_%d{yyyy-MM-dd}.log">
             <PatternLayout>
                 <pattern>[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} - %msg%n</pattern>
             </PatternLayout>

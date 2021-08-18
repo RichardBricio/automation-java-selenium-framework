@@ -44,7 +44,7 @@ public class ReportEsteira {
         } catch (Throwable e) {
             e.printStackTrace();
         }
-        ReportJson.generateFinalReport(reportDir, reportDir, "Concentre");
+        ReportJson.generateFinalReport(reportDir, reportDir, "Company");
         String reportAbsPath = new File(reportDir).getAbsolutePath();
         String report = reportAbsPath + "/cucumber-html-reports/overview-features.html";
 
